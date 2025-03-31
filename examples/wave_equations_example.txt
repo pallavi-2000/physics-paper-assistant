@@ -1,0 +1,4 @@
+Prompt:
+"Simulate a 1D wave equation with fixed boundaries using DifferentialEquations.jl."
+
+[ Paste the generated code here after your first run ]

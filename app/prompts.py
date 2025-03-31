@@ -4,5 +4,5 @@ You are a physics simulation expert. Given the following request, generate Julia
 Request:
 "{input}"
 
-Only return code. Use default values for wave speed and domain if unspecified.
+Only return valid Julia code. Use reasonable defaults for wave speed, time span, and boundary conditions.
 """
